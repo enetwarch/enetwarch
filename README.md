@@ -1,7 +1,3 @@
-# Hello There!
-
-Welcome to my GitHub profile! I am aspiring to be an all-rounder full-stack developer. Learning new languages and frameworks has been a fun experience so far. Solving my own problems seems to be the key to liking programming.
-
 # Tech Stack
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
