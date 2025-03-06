@@ -1,8 +1,8 @@
 ```JavaScript
 for (let problem = 1; problem < Infinity; problem++) {
-    const difficulty = Math.floor(Math.random() * 100);
+    const difficulty = Math.random();
     for (let attempts = 1; attempts < Infinity; attempts++) {
-        const outcome = Math.floor(Math.random() * 100);
+        const outcome = Math.random();
         if (outcome < difficulty) {
             console.log("Failed");
         } else {
