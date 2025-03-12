@@ -1,6 +1,16 @@
 ```JavaScript
-for (let problem = 1; problem < Infinity; problem++) {
-    const difficulty = Math.random();
+simulateProblems();
+
+// No matter what, you will always have problems.
+function simulateProblems() {
+    for (let problems = 1; problems < Infinity; problems++) {
+        const difficulty = Math.random();
+        simulateAttempts(difficulty);
+    }
+}
+
+// The important part is to just keep trying.
+function simulateAttempts(difficulty) {
     for (let attempts = 1; attempts < Infinity; attempts++) {
         const outcome = Math.random();
         if (outcome < difficulty) {
