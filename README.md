@@ -1,5 +1,8 @@
 ```JavaScript
-simulateProblems();
+// Everytime you wake up...
+window.addEventListener("load", () => {
+    simulateProblems();
+});
 
 // No matter what, you will always have problems.
 function simulateProblems() {
