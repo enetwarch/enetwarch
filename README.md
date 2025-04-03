@@ -1,13 +1,12 @@
 ```JavaScript
 // Everytime you wake up...
-window.addEventListener("load", () => {
-    simulateProblems();
-});
+simulateProblems();
 
 // No matter what, you will always have problems.
 function simulateProblems() {
     for (let problems = 1; problems < Infinity; problems++) {
         const difficulty = Math.random();
+
         simulateAttempts(difficulty);
     }
 }
@@ -16,6 +15,7 @@ function simulateProblems() {
 function simulateAttempts(difficulty) {
     for (let attempts = 1; attempts < Infinity; attempts++) {
         const outcome = Math.random();
+
         if (outcome < difficulty) {
             console.log("Failed");
         } else {
