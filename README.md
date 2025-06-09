@@ -23,8 +23,3 @@ Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am curren
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
