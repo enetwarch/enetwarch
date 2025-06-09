@@ -1,33 +1,6 @@
 ### About Me
 
-```JSON
-{
-  "name": "Hugo Molina",
-  "title": "Aspiring Full-Stack Developer",
-  "location": "Philippines",
-  "work": null,
-  "education": {
-    "degree": "BS Computer Science",
-    "year": 2,
-    "school": "Holy Angel University"
-  },
-  "interests": [
-    "Gaming",
-    "Problem Solving",
-    "Web Development",
-    "UI/UX Design"
-  ],
-  "currentlyLearning": [
-    "Radix UI",
-    "Software Architecture",
-    "Design Systems"
-  ],
-  "lookingFor": [
-    "Internships",
-    "Freelance Opportunities"
-  ]
-}
-```
+Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. If you would like to get in touch with me or have any other inquieries, please email me at `enetwarch@protonmail.com`. Have a great day!
 
 ### Tech Stack
 
