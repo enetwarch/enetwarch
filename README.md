@@ -1,7 +1,36 @@
-## About Me
-Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. Currently looking for internships of freelancing opportunities.
+### About Me
 
-## Tech Stack:
+```JSON
+{
+  "name": "Hugo Molina",
+  "title": "Aspiring Full-Stack Developer",
+  "location": "Philippines",
+  "work": null,
+  "education": {
+    "degree": "BS Computer Science",
+    "year": 2,
+    "school": "Holy Angel University"
+  },
+  "interests": [
+    "Gaming",
+    "Problem Solving",
+    "Web Development",
+    "UI/UX Design"
+  ],
+  "currentlyLearning": [
+    "Radix UI",
+    "Software Architecture",
+    "Design Systems"
+  ],
+  "lookingFor": [
+    "Internships",
+    "Freelance Opportunities"
+  ]
+}
+```
+
+### Tech Stack
+
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -22,6 +51,7 @@ Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am curren
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-## GitHub Stats:
+### GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
