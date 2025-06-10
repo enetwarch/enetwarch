@@ -1,6 +1,10 @@
 ### About Me
 
-Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. If you would like to get in touch with me or have any other inquieries, please email me at `enetwarch@protonmail.com`. Have a great day!
+Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
+
+* Student at: Holy Angel University, Philippines
+* Currently learning: Backend Authentication
+* Hobbies: Gaming, Programming, and watching Anime
 
 ### Tech Stack
 
