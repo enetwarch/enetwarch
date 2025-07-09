@@ -1,12 +1,12 @@
-### About Me
+# Enetwarch
 
 Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
 
 * 🏫 Student at: Holy Angel University, Philippines
-* 📖 Currently learning: CI/CD Pipelines and GitHub Actions
-* 🎮 Hobbies: Gaming, Programming, and watching Anime
+* 📖 Currently learning: C and Low Level Architecture
+* 🎮 Hobbies: Gaming and Programming
 
-### Tech Stack
+## Tech Stack
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
