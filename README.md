@@ -9,8 +9,10 @@ Hello there! I’m Hugo Molina, an aspiring full-stack software developer. I enj
 
 ## GitHub Stats
 
-[![Statistics](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/enetwarch/enetwarch)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/enetwarch/enetwarch)
+[![Statistics (Dark Mode)](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github.com/enetwarch/enetwarch)
+[![Languages (Dark Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10#gh-dark-mode-only)](https://github.com/enetwarch/enetwarch)
+[![Statistics (Light Mode)](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=buefy&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github.com/enetwarch/enetwarch)
+[![Languages (Light Mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10#gh-light-mode-only)](https://github.com/enetwarch/enetwarch)
 
 ## Tech Stack
 
