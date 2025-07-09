@@ -1,13 +1,18 @@
 # Enetwarch
 
-Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am currently a second-year Computer Science student in the Holy Angel University, Philippines. I enjoy problem solving and programming in general. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
+Hello! I’m Hugo Molina, an aspiring full-stack software developer. I enjoy problem solving and programming in general. **I am currently looking for internship opportunities in the web development field**. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
 
-* 🏫 Student at: Holy Angel University, Philippines
-* 📖 Currently learning: C and Low Level Architecture
-* 🎮 Hobbies: Gaming and Programming
+```yaml
+enetwarch:
+  full_name: "Hugo Molina"
+  fields_of_interest: ["Web Development"]
+  currently_learning: ["C", "Low-Level Architecture"]
+  hobbies: ["Gaming", "Programming"]
+```
 
-## GitHub Stats:
-[![Stats](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/enetwarch/enetwarch)
+## GitHub Stats
+
+[![Statistics](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/enetwarch/enetwarch)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/enetwarch/enetwarch)
 
 ## Tech Stack
