@@ -1,14 +1,11 @@
 # Enetwarch
 
-Hello! I’m Hugo Molina, an aspiring full-stack software developer. I enjoy problem solving and programming in general. **I am currently looking for internship opportunities in the web development field**. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
+Hello there! I’m Hugo Molina, an aspiring full-stack software developer. I enjoy problem solving and programming in general. **I am currently looking for internship opportunities in the web development field**. If you would like to get in touch with me or have any other inquieries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
 
-```yaml
-enetwarch:
-  full_name: "Hugo Molina"
-  fields_of_interest: ["Web Development"]
-  currently_learning: ["C", "Low-Level Architecture"]
-  hobbies: ["Gaming", "Programming"]
-```
+- **Field of interest**: Web development
+- **Preferred languages**: TypeScript and Java  
+- **Currently learning**: C and low-level architecture
+- **Hobbies**: Gaming and programming
 
 ## GitHub Stats
 
