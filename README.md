@@ -6,6 +6,10 @@ Hello! I’m Hugo Molina, an aspiring full-stack software developer. I am curren
 * 📖 Currently learning: C and Low Level Architecture
 * 🎮 Hobbies: Gaming and Programming
 
+## GitHub Stats:
+[![Stats](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/enetwarch/enetwarch)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enetwarch&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)](https://github.com/enetwarch/enetwarch)
+
 ## Tech Stack
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
