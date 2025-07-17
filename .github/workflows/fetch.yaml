@@ -10,6 +10,9 @@ on:
 jobs:
   github-readme-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout codebase
         uses: actions/checkout@v3
