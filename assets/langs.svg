@@ -200,9 +200,9 @@
           data-testid="lang-progress"
           x="249.50000000000003"
           y="0"
-          width="10.5"
+          width="10.51"
           height="8"
-          fill="#427819"
+          fill="#89e051"
         />
       
       
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 26.06%
+        Java 26.05%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -258,9 +258,9 @@
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#427819" />
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 0.20%
+        Shell 0.20%
       </text>
     </g>
   </g></g>
