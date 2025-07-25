@@ -4,7 +4,7 @@ Hello there! I’m Hugo Molina, an aspiring full-stack software developer. I enj
 
 - 🎯 **Field of interest**: Web development
 - 📚 **Preferred languages**: TypeScript and Java  
-- 💬 **Currently learning**: C and low-level architecture
+- 💬 **Currently learning**: C++ and DSA
 - 🎮 **Hobbies**: Gaming and programming
 
 ## Tech Stack
