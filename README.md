@@ -3,8 +3,8 @@
 Hello there! I’m Hugo Molina, an aspiring full-stack software developer. I enjoy problem solving and programming in general. **I am currently looking for internship opportunities in the web development field**. If you would like to get in touch with me or have any other inquiries, please email me at [enetwarch@protonmail.com](mailto:enetwarch@protonmail.com).
 
 - 🎯 **Field of interest**: Web development
-- 📚 **Preferred languages**: TypeScript and Java  
-- 💬 **Currently learning**: C++ and DSA
+- 📚 **Preferred languages**: TypeScript and C++  
+- 💬 **Currently learning**: C++ DSA and LeetCode
 - 🎮 **Hobbies**: Gaming and programming
 
 ## Tech Stack
