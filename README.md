@@ -33,7 +33,9 @@ Hello there! I’m Hugo Molina, an aspiring full-stack software developer. I enj
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
+<!--
 ## GitHub Stats
 
-[![Statistics](./assets/stats.svg)](https://github.com/enetwarch/enetwarch)
-[![Languages](./assets/langs.svg)](https://github.com/enetwarch/enetwarch)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=enetwarch&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true&line_height=24)](https://github.com/enetwarch/enetwarch)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enetwarch&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true&langs_count=8&hide=markdown)](https://github.com/enetwarch/enetwarch)
+-->
